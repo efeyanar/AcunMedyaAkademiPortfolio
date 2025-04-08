@@ -1,0 +1,35 @@
+﻿@model List<AcunMedyaAkademiPortfolio.Models.TblProject>
+<div id="portfolio" class="section lb">
+    <div class="container">
+        <div class="section-title text-left">
+            <h3>Projelerim</h3>
+            <p>Aşağıda projelerimi görebilirsiniz.</p>
+        </div><!-- end title -->
+
+        <div class="gallery-menu row">
+            <div class="col-md-12">
+                <div class="button-group filter-button-group text-left">
+                    <button class="active" data-filter="*">Hepsi</button>
+                    @foreach (var item in Model.Select(m => m.Description).Distinct())
+                    {
+                        <button data-filter=".gal_@(item.Replace(" ", "_"))">@item</button>
+                    }
+                </div>
+            </div>
+        </div>
+
+        <div class="gallery-list row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 col-sm-6 gallery-grid gal_@(item.Description.Replace(" ", "_"))">
+                    <div class="gallery-single fix">
+                        <img src="@item.Image" class="img-fluid" alt="Image">
+                        <div class="img-overlay">
+                            <a href="@item.Image" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-picture-o"></i></a>
+                        </div>
+                    </div>
+                </div>
+            }
+            </div>
+    </div>
+</div>
