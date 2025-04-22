@@ -35,5 +35,24 @@ namespace AcunMedyaAkademiPortfolio.Controllers
             db.SaveChanges();
             return RedirectToAction("TestimonialList");
         }
+        [HttpGet]
+        public ActionResult UpdateTestimonial(int id)
+        {
+            var value = db.TblTestimonial.Find(id);
+            return View(value);
+        }
+        [HttpPost]
+        public ActionResult UpdateTestimonial(TblTestimonial p)
+        {
+            var value = db.TblTestimonial.Find(p.TestimonialID);
+            value.Title = p.Title;
+            value.Description = p.Description;
+            value.NameSurname = p.NameSurname;
+            value.ImageUrl = p.ImageUrl;
+            value.Job = p.Job;
+            value.Status = p.Status;
+            db.SaveChanges();
+            return RedirectToAction("TestimonialList");
+        }
     }
 }

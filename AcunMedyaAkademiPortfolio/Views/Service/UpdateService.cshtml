@@ -1,0 +1,23 @@
+﻿@model AcunMedyaAkademiPortfolio.Models.TblService
+@{
+    ViewBag.Title = "UpdateService";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h2>Hizmetlerim Güncelleme Sayfası</h2>
+
+<form method="post">
+    <label>Hizmetlerim ID</label>
+    <input type="text" class="table table-bordered" value="@Model.ServiceID" name="ServiceID" readonly />
+    <br />
+    <label>Hizmetlerim Başlığı</label>
+    <input type="text" class="table table-bordered" value="@Model.Title" name="Title" />
+    <br />
+    <label>Hizmetlerim Açıklaması</label>
+    <input type="text" class="table table-bordered" value="@Model.Description" name="Description" />
+    <br />
+    <label>Resim Yolu</label>
+    <input type="text" class="table table-bordered" value="@Model.ImageUrl" name="ImageUrl" />
+    <br />
+    <button class="btn btn-success">Güncelle</button>
+</form>

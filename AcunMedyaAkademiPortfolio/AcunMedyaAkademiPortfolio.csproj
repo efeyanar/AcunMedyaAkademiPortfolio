@@ -478,7 +478,6 @@
     <Content Include="Views\Category\UpdateCategory.cshtml" />
     <Content Include="Views\Project\UpdateProject.cshtml" />
     <Content Include="Views\Contact\ContactList.cshtml" />
-    <Content Include="Views\Statistic\Index.cshtml" />
     <Content Include="Templates\dominic-master\fonts\Flaticon.eot" />
     <Content Include="Templates\dominic-master\fonts\Flaticon.ttf" />
     <Content Include="Templates\dominic-master\fonts\Flaticon.woff" />
@@ -502,8 +501,14 @@
     <Content Include="Views\Default\FooterPartial.cshtml" />
     <Content Include="Views\Default\JsPartial.cshtml" />
     <Content Include="Views\Default\ContactPartial.cshtml" />
-    <Content Include="Templates\EfeYanarCv.pdf" />
     <Content Include="Views\Contact\CreateContact.cshtml" />
+    <Content Include="Views\Testimonial\UpdateTestimonial.cshtml" />
+    <Content Include="Views\About\UpdateAbout.cshtml" />
+    <Content Include="Views\Service\UpdateService.cshtml" />
+    <Content Include="Views\Feature\UpdateFeature.cshtml" />
+    <Content Include="Templates\EfeYanarCv.pdf" />
+    <Content Include="Views\Statistic\StatisticList.cshtml" />
+    <Content Include="Views\Contact\MessageCountPartial.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

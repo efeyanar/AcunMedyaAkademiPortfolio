@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewBag.Title = "StatisticList";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+    <h2>Dashboard İstatistikleri</h2>
+<br />
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Kategori Sayısı</h5>
+                    <p class="card-text">@ViewBag.categorysayisi</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Proje Sayısı</h5>
+                    <p class="card-text">@ViewBag.projesayisi</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Mesaj Sayısı</h5>
+                    <p class="card-text">@ViewBag.mesajsayisi</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-danger mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Hizmet Sayısı</h5>
+                    <p class="card-text">@ViewBag.hizmetsayisi</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-info mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Referans Sayısı</h5>
+                    <p class="card-text">@ViewBag.testimonialsayisi</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-secondary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Hakkımda Sayısı</h5>
+                    <p class="card-text">@ViewBag.aboutsayisi</p>
+                </div>
+            </div>
+        </div>
+    </div>
+

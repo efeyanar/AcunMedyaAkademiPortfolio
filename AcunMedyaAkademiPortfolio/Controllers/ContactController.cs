@@ -44,6 +44,12 @@ namespace AcunMedyaAkademiPortfolio.Controllers
             db.SaveChanges();
             return Redirect("/Default/Index#contact");
         }
+        [HttpGet]
+        public PartialViewResult MessageCountPartial()
+        {
+            ViewBag.mesajSayisi = db.TblContact.Count();
+            return PartialView();
+        }
 
     }
 }

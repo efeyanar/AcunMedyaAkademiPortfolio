@@ -10,10 +10,14 @@ namespace AcunMedyaAkademiPortfolio.Controllers
     public class StatisticController : Controller
     {
         DbDominicPortfolioEntities db = new DbDominicPortfolioEntities();
-        public ActionResult Index()
+        public ActionResult StatisticList()
         {
             ViewBag.categorysayisi = db.TblCategory.Count();
             ViewBag.projesayisi = db.TblProject.Count();
+            ViewBag.mesajsayisi = db.TblContact.Count();
+            ViewBag.hizmetsayisi = db.TblService.Count();
+            ViewBag.testimonialsayisi = db.TblTestimonial.Count();
+            ViewBag.aboutsayisi = db.TblAbout.Count();
             return View();
         }
     }
