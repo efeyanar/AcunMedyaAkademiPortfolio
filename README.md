@@ -20,7 +20,7 @@ Bu proje, **ASP.NET MVC mimarisi** kullanılarak geliştirilmiş, yönetim panel
 ### Ana Sayfa Görünümü:
 ![AnaSayfa-Default](https://github.com/user-attachments/assets/ef6cf06a-ef86-41cd-b31f-20a12f7e2fa4)  
 ![Hakkımda-Default](https://github.com/user-attachments/assets/353a1987-1495-4561-8b71-fc0d686e08ed)  
-![Hizmetlerim-Default](https://github.com/user-attachments/assets/d2fb2de2-72c7-4c5f-9014-beb2204b2af7)  
+![services](https://github.com/user-attachments/assets/16b20f43-e858-46ff-a43e-236860d8cce0)
 ![Projelerim-Default](https://github.com/user-attachments/assets/986141ca-2dac-464b-ad71-f5ad3b511cd0)  
 ![Referanslarım-Default1](https://github.com/user-attachments/assets/d16a1764-7c87-4a74-9da1-17371714863b)  
 ![İletişim-Default](https://github.com/user-attachments/assets/8a3d88b7-9b01-4649-8a60-de9c90ddf158)
@@ -33,7 +33,7 @@ Bu proje, **ASP.NET MVC mimarisi** kullanılarak geliştirilmiş, yönetim panel
 ![Proje Güncelleme](https://github.com/user-attachments/assets/c47b1a61-1771-4070-8650-124f5ba9b50c)  
 ![Referanslar](https://github.com/user-attachments/assets/dd33277d-7ba8-4928-87d5-889b11f6b87f)  
 ![Hakkımda](https://github.com/user-attachments/assets/5a53f43f-f55c-412e-a654-7af53b170929)  
-![services](https://github.com/user-attachments/assets/16b20f43-e858-46ff-a43e-236860d8cce0)
+![hizmetlerim](https://github.com/user-attachments/assets/55c126c4-2d6b-4666-9c01-718c4791b4fd)
 ![Öne Çıkanlar](https://github.com/user-attachments/assets/48fdf57c-45b6-421c-86ef-80e1c0c149d3)  
 ![Mesajlar](https://github.com/user-attachments/assets/05ff55ed-d593-46cc-aa39-c6d1b6ceb1d3)
 
