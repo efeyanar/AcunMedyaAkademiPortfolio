@@ -33,7 +33,7 @@ Bu proje, **ASP.NET MVC mimarisi** kullanılarak geliştirilmiş, yönetim panel
 ![Proje Güncelleme](https://github.com/user-attachments/assets/c47b1a61-1771-4070-8650-124f5ba9b50c)  
 ![Referanslar](https://github.com/user-attachments/assets/dd33277d-7ba8-4928-87d5-889b11f6b87f)  
 ![Hakkımda](https://github.com/user-attachments/assets/5a53f43f-f55c-412e-a654-7af53b170929)  
-![Hizmetlerim](https://github.com/user-attachments/assets/7c316185-dce2-4c7f-be87-87c82c1b0cd6)  
+![hizmetlerim](https://github.com/user-attachments/assets/233d76b9-110a-4eba-94be-0c5f904beb1c)
 ![Öne Çıkanlar](https://github.com/user-attachments/assets/48fdf57c-45b6-421c-86ef-80e1c0c149d3)  
 ![Mesajlar](https://github.com/user-attachments/assets/05ff55ed-d593-46cc-aa39-c6d1b6ceb1d3)
 
