@@ -1,4 +1,4 @@
-**Admin Panelli Portfolyo Web Sitesi**
+# **Admin Panelli Portfolyo Web Sitesi**
 
 Bu proje, **ASP.NET MVC mimarisi** kullanılarak geliştirilmiş, yönetim paneli ile dinamik olarak güncellenebilen bir portfolyo web sitesidir. Kullanıcı dostu arayüzü, modern tasarımı ve esnek yönetim paneli sayesinde kişisel ya da kurumsal kullanım için uygundur.
 
