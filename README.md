@@ -1,22 +1,22 @@
-**Admin Panelli Portfolyo Web Sitesi**
-Bu proje, **ASP.NET MVC mimarisi** kullanılarak geliştirilmiş, yönetim paneli ile dinamik olarak güncellenebilen bir portfolyo web sitesidir. Kullanıcı dostu arayüzü, modern tasarımı ve esnek yönetim paneli sayesinde kişisel ya da kurumsal kullanım için uygundur.
+**Admin Panelli Portfolyo Web Sitesi**<br>
+Bu proje, **ASP.NET MVC mimarisi** kullanı<br>larak geliştirilmiş, yönetim paneli ile dinamik olarak güncellenebilen bir portfolyo web sitesidir. Kullanıcı dostu arayüzü, modern tasarımı ve esnek yönetim paneli sayesinde kişisel ya da kurumsal kullanım için uygundur.
+<br>
+**🚀<br> Kullanılan Teknolojiler ve Uygulamalar**<br>
+🗄️ Micro<br>soft SQL Server (MSSQL) Veritabanı<br>
+🖥️ ASP.NET M<br>VC Framework<br>
+🛠️ Entity Framewor<br>k<br>
+🖌️ Layout Kontrolü<br><br>
+📂 Db First<br><br>
+✏️ CRUD İşlemleri<b<br>r>
+🌐 HTML ve CSS<br>
+<br>🎨 JavaScript<br>
+🅱️ B<br>ootstrap<br>
+📊 LINQ Sorguları<br>
+<br>
 
-**🚀 Kullanılan Teknolojiler ve Uygulamalar**
-🗄️ Microsoft SQL Server (MSSQL) Veritabanı
-🖥️ ASP.NET MVC Framework
-🛠️ Entity Framework
-🖌️ Layout Kontrolü
-📂 Db First
-✏️ CRUD İşlemleri
-🌐 HTML ve CSS
-🎨 JavaScript
-🅱️ Bootstrap
-📊 LINQ Sorguları
+##🖼️ Projeden Görs<br>eller<br>
 
-
-##🖼️ Projeden Görseller
-
-Ana Sayfa Görünümü:
+Ana Sayfa Görünümü:<br>
 ![AnaSayfa-Default](https://github.com/user-attachments/assets/ef6cf06a-ef86-41cd-b31f-20a12f7e2fa4)
 
 ![Hakkımda-Default](https://github.com/user-attachments/assets/353a1987-1495-4561-8b71-fc0d686e08ed)
@@ -29,7 +29,7 @@ Ana Sayfa Görünümü:
 
 ![İletişim-Default](https://github.com/user-attachments/assets/8a3d88b7-9b01-4649-8a60-de9c90ddf158)
 
-Admin Paneli Görünümü:
+Admin Paneli Görünümü:<br>
 
 ![Dashboard](https://github.com/user-attachments/assets/4047967f-1fb4-4249-a9ab-ee4d054ab2c8)
 
@@ -51,9 +51,8 @@ Admin Paneli Görünümü:
 
 ![mesajlar](https://github.com/user-attachments/assets/05ff55ed-d593-46cc-aa39-c6d1b6ceb1d3)
 
-Veri Tabloları:
+Veri Tabloları:<br>
 
-![VeriTabloları](https://github.com/user-attachments/assets/900c4e5f-431b-4b6c-9da2-2d5d4b9aaae6)
-
+![VeriTabloları](https://github.com/user-attachments/assets/900c4e5f-431b-4b6c-9da2-2d5d4b9aaae6)<br>
 👤 **Efe Yanar**  
 📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/efe-yanar/) | Mail: efe1yanar@gmail.com
